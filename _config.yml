@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Xingchao Peng"
+title                    : "Xingchao Peng (彭行超)"
 title_separator          : "-"
 name                     : &name "Xingchao Peng"  # Update this with your name, this is used in the title and author meta tag
 description              : &description "Xingchao Peng's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,9 +24,9 @@ repository               : "xcpeng/xcpeng.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Dr. Xingchao Peng" # Update this with your name
+  name             : "Xingchao Peng" # Update this with your name
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "A reseacher focusing on Computer Vision, Machine Learning, LLM & RAG. I play with vectors and matrices!"
   location         : "Bellevue, WA, USA" # City, State
   employer         : ""
   uri              : # URL
